@@ -5,7 +5,7 @@
   the Treasury of the Republic of Cyprus (Γενικό Λογιστήριο της
   Δημοκρατίας) -- Competent Authority for Public Procurement, Ν.
   73(Ι)/2016 (transposing EU Directive 2014/24/EU); e-PPS e-tendering
-  portal at eprocurement.gov.cy (see `src/marketentry/facts.cljc`)
+  portal at eprocurement.gov.cy (see `src/marketentry/facts.kotoba`)
 - DRCOR (Department of Registrar of Companies and Intellectual
   Property, Ministry of Energy, Commerce and Industry) incorporation
   record, Companies Law (Cap. 113)
