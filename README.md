@@ -42,7 +42,7 @@ as the other `cloud-itonami-iso3166-*` siblings:
   narrowed scope, including facts this iteration could NOT verify, such
   as a Cyprus-specific data-protection implementing act, and one it
   found unreachable, the Ministry of Labour's own site).
-- `src/statute/facts.cljc` -- general-law catalog: the Companies Law
+- `src/statute/facts.cljk` -- general-law catalog: the Companies Law
   (Cap. 113, DRCOR's own consolidated PDF, read directly via
   `pdftotext`) and the Termination of Employment Law of 1967 (Ν.
   24/1967, via CyLaw's own consolidated index).
@@ -62,7 +62,7 @@ This repo carries a **country-level regional-culture catalog**
 Wave 1, in `com-junkawasaki/root`) — national dishes, protected products,
 beverages, crafts, festivals and heritage sites for Cyprus:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring the fleet's `statute.facts` convention).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
